@@ -1,0 +1,22 @@
+{
+    "C:/Users/rdhek/Downloads/temp": {
+        "EQ010217.CSV": [
+            256981, 
+            1485945430.0
+        ], 
+        "StockList.zip": [
+            96016, 
+            1486012971.314328
+        ]
+    }, 
+    "C:/Users/rdhek/Django/mysite": {
+        "db.sqlite3": [
+            46080, 
+            1451820466.9766812
+        ], 
+        "manage.py": [
+            249, 
+            1450847914.8012018
+        ]
+    }
+}
